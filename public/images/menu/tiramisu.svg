@@ -1,0 +1,14 @@
+<svg width="350" height="200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#f5f5f5"/>
+  <rect x="125" y="50" width="100" height="70" rx="5" fill="#D7CCC8" opacity="0.9"/>
+  <rect x="125" y="50" width="100" height="20" rx="2" fill="#EFEBE9" opacity="0.9"/>
+  <rect x="125" y="70" width="100" height="20" rx="0" fill="#8D6E63" opacity="0.7"/>
+  <rect x="125" y="90" width="100" height="15" rx="0" fill="#EFEBE9" opacity="0.9"/>
+  <rect x="125" y="105" width="100" height="15" rx="0" fill="#8D6E63" opacity="0.7"/>
+  <line x1="125" y1="50" x2="225" y2="50" stroke="#5D4037" stroke-width="1" />
+  <rect x="145" y="40" width="3" height="10" fill="#A1887F" opacity="0.9"/>
+  <rect x="165" y="40" width="3" height="10" fill="#A1887F" opacity="0.9"/>
+  <rect x="185" y="40" width="3" height="10" fill="#A1887F" opacity="0.9"/>
+  <rect x="205" y="40" width="3" height="10" fill="#A1887F" opacity="0.9"/>
+  <text x="175" y="175" font-family="Arial" font-size="18" fill="#333" text-anchor="middle">티라미수</text>
+</svg>
